@@ -8,7 +8,7 @@ Presentations based on the paper [[2301.10272]](https://arxiv.org/abs/2301.10272
 - [BritGrav23](https://github.com/sergisl/presentations/blob/main/Britgrav23.pdf)
 - [theoretical-cosmology-seminar-ICG](https://github.com/sergisl/presentations/blob/main/theoretical-cosmology-seminar-ICG.pdf)
 ## Miscellaneous
-- [black-hole-types](https://github.com/sergisl/presentations/blob/main/black-hole-types.pdf): types of black holes in GR and beyond (coordinates, Carter-Penrose diagrams, no-hair theorems)
+- [black-hole-types](https://github.com/sergisl/presentations/blob/main/black-hole-types.pdf): types of black holes in GR and beyond (coordinates, Carter-Penrose diagrams, no-hair theorems).
 - [stability-John](https://github.com/sergisl/presentations/blob/main/stability-John.pdf): summarising calculations of [[1510.07400]](https://arxiv.org/pdf/1510.07400.pdf) regarding the stability of black hole solutions with a time-dependent scalar in shift + reflection symmetric scalar tensor theories.
 
 > Handwirtten notes are made with [notability](https://notability.com/) in an iPad.
