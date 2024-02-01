@@ -10,5 +10,6 @@ Presentations based on the paper [[2301.10272]](https://arxiv.org/abs/2301.10272
 ## Miscellaneous
 - [black-hole-types](https://github.com/sergisl/presentations/blob/main/black-hole-types.pdf): types of black holes in GR and beyond (coordinates, Carter-Penrose diagrams, no-hair theorems).
 - [stability-John](https://github.com/sergisl/presentations/blob/main/stability-John.pdf): summarising calculations of [[1510.07400]](https://arxiv.org/pdf/1510.07400.pdf) regarding the stability of black hole solutions with a time-dependent scalar in shift + reflection symmetric scalar tensor theories.
+- [einstein-in-spain](https://github.com/sergisl/presentations/blob/main/einstein-in-spain.pdf): historical context and main events of Einstein's 1923 visit to Spain.
 
 > Handwirtten notes are made with [notability](https://notability.com/) in an iPad.
