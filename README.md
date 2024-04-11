@@ -12,6 +12,6 @@ Presentations based on the paper [[2301.10272]](https://arxiv.org/abs/2301.10272
 - [black-hole-types](https://github.com/sergisl/presentations/blob/main/black-hole-types.pdf): types of black holes in GR and beyond (coordinates, Carter-Penrose diagrams, no-hair theorems).
 - [stability-John](https://github.com/sergisl/presentations/blob/main/stability-John.pdf): summarising calculations of [[1510.07400]](https://arxiv.org/pdf/1510.07400.pdf) regarding the stability of black hole solutions with a time-dependent scalar in shift + reflection symmetric scalar tensor theories.
 - [einstein-in-spain](https://github.com/sergisl/presentations/blob/main/einstein-in-spain.pdf): historical context and main events of Einstein's 1923 visit to Spain.
-- [gravitational-waves](https://github.com/sergisl/presentations/blob/main/gravitational-waves.pdf) ([video]()): public talk on gravitational waves for the Royal Observatory Greenwich.
+- [gravitational-waves](https://github.com/sergisl/presentations/blob/main/gravitational-waves.pdf) ([video](https://youtu.be/euk_OrPyqmU?si=3Zwgf0sKu9q--2zP)): public talk on gravitational waves for the Royal Observatory Greenwich.
 
 > Handwirtten notes are made with [notability](https://notability.com/) in an iPad.
