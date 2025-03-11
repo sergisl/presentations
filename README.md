@@ -1,7 +1,7 @@
 # presentations
 ## Inverting no-hair theorems: How requiring General Relativity solutions restricts scalar-tensor theories
 Presentations based on the paper [[2503.05651]](https://arxiv.org/pdf/2503.05651):
-- [SoCoCo-25](https://github.com/sergisl/presentations/blob/main/SoCoCo-25.pdf)
+- [SoCoCo25](https://github.com/sergisl/presentations/blob/main/SoCoCo25.pdf)
 
 ## Stability and quasinormal modes for black holes with time-dependent scalar hair
 Presentations based on the paper [[2408.01720]](https://arxiv.org/pdf/2408.01720):
